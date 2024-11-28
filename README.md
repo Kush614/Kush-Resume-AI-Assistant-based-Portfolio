@@ -3,8 +3,7 @@
 
 An AI-powered portfolio designed to showcase your skills, projects, and resume dynamically. This project integrates the **Gemini API** to provide an intelligent and personalized experience for visitors.
 
-# Kush-Resume-AI-Assistant-based-Portfolio
-Live Deployment: https://kzmoflzdp6o2ksbio7e7.lite.vusercontent.net/
+#Live Deployment: https://kzmoflzdp6o2ksbio7e7.lite.vusercontent.net/
 
 ## Features
 - **Gemini API Integration**: Leverages advanced AI capabilities for dynamic resume interaction and personalization.
