@@ -4,6 +4,7 @@
 An AI-powered portfolio designed to showcase your skills, projects, and resume dynamically. This project integrates the **Gemini API** to provide an intelligent and personalized experience for visitors.
 
 #Live Deployment: https://kzmoflzdp6o2ksbio7e7.lite.vusercontent.net/
+
 #Edit: I have hit the Gemini API Free tier limit below I have attached video for implementation.
 
 ## Features
