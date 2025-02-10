@@ -7,7 +7,8 @@ An AI-powered portfolio designed to showcase your skills, projects, and resume d
 
 #Edit: I have hit the Gemini API Free tier limit below I have attached video for implementation.
 
-[![Watch the video](https://img.youtube.com/vi/tUBNo4ri8RE/0.jpg)](https://youtu.be/tUBNo4ri8RE)
+[Live Demo.mp4](https://github.com/Kush614/Kush-Resume-AI-Assistant-based-Portfolio/blob/main/Live%20Demo.mp4)
+
 
 
 
