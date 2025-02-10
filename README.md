@@ -8,6 +8,8 @@ An AI-powered portfolio designed to showcase your skills, projects, and resume d
 #Edit: I have hit the Gemini API Free tier limit below I have attached video for implementation.
 
 [![Watch the video](https://img.youtube.com/vi/tUBNo4ri8RE/0.jpg)](https://youtu.be/tUBNo4ri8RE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tUBNo4ri8RE" frameborder="0" allowfullscreen></iframe>
+
 
 
 ## Features
