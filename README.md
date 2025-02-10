@@ -7,6 +7,9 @@ An AI-powered portfolio designed to showcase your skills, projects, and resume d
 
 #Edit: I have hit the Gemini API Free tier limit below I have attached video for implementation.
 
+[![Watch the video](https://img.youtube.com/vi/tUBNo4ri8RE/0.jpg)](https://youtu.be/tUBNo4ri8RE)
+
+
 ## Features
 - **Gemini API Integration**: Leverages advanced AI capabilities for dynamic resume interaction and personalization.
 - **Interactive Assistant**: Visitors can query your resume, projects, and skills interactively.
